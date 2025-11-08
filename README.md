@@ -1,11 +1,5 @@
 # 🌦️ Telangana State Weather Data Analysis (2021–2024)
 
-### 📊 A Power BI Project by  
-👥 **Team Members**  
-- **Kumkapalla Chidvilas**  
-- **Kudithi Krishna Kishore**  
-- **Bandaru Deva Vara Prasad**  
-
 ---
 
 ## 🧠 Project Overview  
@@ -131,13 +125,9 @@ It highlights how raw environmental data can be transformed into **interactive, 
 
 ---
 
-## 📫 Connect with Us
-**Team: Kumkapalla Chidvilas, Kudithi Krishna Kishore, Bandaru Deva Vara Prasad**  
+## 📫 Connect
 📧 Email: kishorekrishna623@gmail.com  
 🔗 [LinkedIn - krishna kishore kudithi](https://www.linkedin.com/in/krishnakishorekudithi/recent-activity/all/)  
-
-
-
 
 
 
